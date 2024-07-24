@@ -71,7 +71,7 @@ class _MyAppState extends State<MyApp> {
                             ),
                             SizedBox(width: 2),
                             Text(
-                              '  +92 311 5238141 ',
+                              '  +12321 ',
                               style: GoogleFonts.sourceSans3(
                                 fontSize: 20,
                                 color: Colors.white,
